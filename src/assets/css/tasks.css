@@ -1,0 +1,38 @@
+.page-header{
+    font-weight: bolder;
+    font-size: 48px;
+    color: #1E2189;
+}
+
+.page-content{
+    display: flex;
+    flex-direction: row;
+    padding-top: 16px;
+}
+
+.content-img{
+    width: 50%;
+    height: auto;
+}
+
+.content-description{
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+}
+@media (max-width: 767.98px) {
+    .page-header{
+        font-size: 24px;
+    }
+    .page-content{
+        flex-direction: column;
+    }
+    .page-content img{
+        display: none;
+    }
+  }
+  @media (max-width: 991.98px) {
+    .page-header{
+        font-size: 40px;
+    }
+  }

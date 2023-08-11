@@ -1,0 +1,197 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 98.9vw;
+  height: 100vh;
+}
+.primary-font{
+  font-family: 'Montserrat';
+}
+
+.secondary-font{
+  font-family: 'Quicksand';
+}
+
+.App{
+  height: 100vh;
+  width: 100%;
+}
+
+.page-landing{
+  background-color: #FFBD59;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 96px;
+  padding-left: 144px;
+  overflow: hidden;
+}
+
+.page-about{
+  background-color: #EDECED;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
+
+.page-questions{
+  background-color: #FFBD59;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
+
+.page-offer{
+  background-color: #1E2189;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 64px;
+  overflow: hidden;
+}
+
+.page-tasks{
+  background-color: #FFBD59;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 48px;
+  overflow: hidden;
+}
+
+.page-accomplished{
+  background-color: #1E2189;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.page-process{
+  display: flex;
+  flex-direction: column;
+  background-color: #EDECED;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.page-contact{
+  background-color: #EDECED;
+  height: 100vh;
+  width: 100%;
+  padding: 72px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  /* align-items: center; */
+}
+
+/* MOBILE */
+@media (max-width: 767.98px) {
+  body{
+    width: 100vw;
+  }
+
+  .page-landing{
+    padding-left: 16px;
+    padding-top: 32px;
+    padding-right: 16px;
+  }
+  .page-about{
+    padding-left: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    height: max-content;
+  }
+  .page-questions{
+    padding-left: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    flex-direction: column;
+    height: max-content;
+  }
+  .page-offer{
+    padding: 16px;
+    height: max-content;
+  }
+  .page-tasks{
+    padding: 16px;
+    height: max-content;
+  }
+  .page-accomplished{
+    flex-direction: column;
+    padding-left: 16px;
+    padding-top: 32px;
+    height: max-content;
+  }
+  .page-process{
+    height: max-content;
+  }
+
+  .page-contact{
+    padding: 16px;
+    min-height: 100vh;
+    height: auto;
+    /* height: max-content; */
+  }
+  
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+  body{
+    width: 100vw;
+  }
+  
+  .page-landing{
+    padding-left: 16px;
+    padding-top: 32px;
+    padding-right: 16px;
+  }
+  .page-about{
+    padding-left: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+  .page-questions{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    /* flex-direction: column; */
+  }
+  .page-offer{
+    padding: 16px;
+  }
+  .page-tasks{
+    padding: 16px;
+    height: max-content;
+  }
+  .page-accomplished{
+    padding-left: 16px;
+    padding-top: 32px;
+    height: max-content;
+  }
+  .page-process{
+    height: max-content;
+  }
+
+  .page-contact{
+    padding: 16px;
+  }
+}

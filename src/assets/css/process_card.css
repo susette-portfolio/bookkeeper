@@ -1,0 +1,42 @@
+.process-card{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFBD59;
+    padding: 8px;
+    width: 20%;
+    border-radius: 8px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+    margin-bottom: 24px;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px;
+  
+}
+
+.body-text{
+    text-align: center;
+    width: 75%;
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+@media (max-width: 767.98px) {
+    .process-card{
+        width: 45%!important;
+    }
+    .body-text{
+        width: unset;
+    }
+    .card-body{
+        padding: unset;
+    }
+}
+@media (max-width: 991.98px) {
+    .process-card{
+        width: 30%;
+    }
+}

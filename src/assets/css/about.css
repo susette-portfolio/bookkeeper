@@ -1,0 +1,48 @@
+.about-img{
+    width: 45%;
+    object-fit: cover;
+    object-position: 0% 20%;
+}
+.about-description{
+    width: 55%;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 32px;
+}
+.description-title{
+    font-size: 64px;
+    font-weight: bold;
+}
+.description-text{
+    font-size: 24px;
+    letter-spacing: 2px;
+    /* line-height: 95%; */
+}
+
+@media (max-width: 767.98px) {
+    .about-img{
+        display: none;
+    }
+    .about-description{
+        width: 100%;
+        padding: unset;
+    }
+    .description-title{
+        font-size: 40px;
+    }
+    .description-text{
+        font-size: 20px;
+    }
+  }
+  @media (max-width: 991.98px) {
+    .about-description{
+        width: 100%;
+        padding: 16px;
+    }
+    .description-title{
+        font-size: 32px;
+    }
+    .description-text{
+        font-size: 20px;
+    }
+  }

@@ -1,0 +1,40 @@
+.offer-card{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.card-description{
+    background-color: #131558;
+    color: white;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 8px 24px 8px 24px;
+    text-align: center;
+}
+
+.card-description .secondary-font{
+    letter-spacing: 1px;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+@media (max-width: 767.98px) {
+    .offer-card{
+        width: 80%!important;
+        height: 20%;
+        margin-bottom: 16px;
+        margin-top: 16px;
+    }
+    .offer-card img{
+        height: 60%;
+    }
+  }
+
+  @media (max-width: 991.98px) {
+    .offer-card{
+        width: 30%;
+
+    }
+  }

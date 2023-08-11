@@ -1,0 +1,31 @@
+.landing-greetings{
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.landing-sub-greetings{
+    font-size: 20px;
+    width: 30%;
+}
+
+.landing-display-name{
+    display: flex;
+    flex-direction: column;
+    font-weight: bolder;
+    font-size: 128px;
+    color: #1E2189;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    line-height: 80%;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+@media (max-width: 767.98px) {
+    .landing-display-name{
+        font-size: 80px;
+    }
+    .landing-sub-greetings{
+        width: 90%;
+    }
+  }
