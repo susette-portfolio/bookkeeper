@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/z_portfolio/static/css/main.b546ce2a.css",
-    "main.js": "/z_portfolio/static/js/main.d39b8e75.js",
-    "static/media/about_image.png": "/z_portfolio/static/media/about_image.a35bc6d5652a5dd0ab5d.png",
-    "static/media/QRCode.png": "/z_portfolio/static/media/QRCode.8b20e3d7aad69968c2ea.png",
-    "static/media/examplel-setup.svg": "/z_portfolio/static/media/examplel-setup.1796cad36652996d7ff25cc00a8051ca.svg",
-    "static/media/1st_card.svg": "/z_portfolio/static/media/1st_card.5027fe695e6bb42297b0b5db96a7d609.svg",
-    "static/media/completedTasks.svg": "/z_portfolio/static/media/completedTasks.c901fba09afa822c9838f1e5e0691d4e.svg",
-    "static/media/can-u-relate.svg": "/z_portfolio/static/media/can-u-relate.3b7ec28e79e462ab5108d5d423c461d1.svg",
-    "static/media/2nd_card.svg": "/z_portfolio/static/media/2nd_card.241d8eeda7cff9b4c4bc57556232d7d9.svg",
-    "static/media/3rd_card.svg": "/z_portfolio/static/media/3rd_card.306117262e68d8d63f50b10dc151904e.svg",
-    "index.html": "/z_portfolio/index.html",
-    "main.b546ce2a.css.map": "/z_portfolio/static/css/main.b546ce2a.css.map",
-    "main.d39b8e75.js.map": "/z_portfolio/static/js/main.d39b8e75.js.map"
+    "main.css": "/bookkeeper/static/css/main.b546ce2a.css",
+    "main.js": "/bookkeeper/static/js/main.c45767f9.js",
+    "static/media/about_image.png": "/bookkeeper/static/media/about_image.a35bc6d5652a5dd0ab5d.png",
+    "static/media/QRCode.png": "/bookkeeper/static/media/QRCode.8b20e3d7aad69968c2ea.png",
+    "static/media/examplel-setup.svg": "/bookkeeper/static/media/examplel-setup.1796cad36652996d7ff25cc00a8051ca.svg",
+    "static/media/1st_card.svg": "/bookkeeper/static/media/1st_card.5027fe695e6bb42297b0b5db96a7d609.svg",
+    "static/media/completedTasks.svg": "/bookkeeper/static/media/completedTasks.c901fba09afa822c9838f1e5e0691d4e.svg",
+    "static/media/can-u-relate.svg": "/bookkeeper/static/media/can-u-relate.3b7ec28e79e462ab5108d5d423c461d1.svg",
+    "static/media/2nd_card.svg": "/bookkeeper/static/media/2nd_card.241d8eeda7cff9b4c4bc57556232d7d9.svg",
+    "static/media/3rd_card.svg": "/bookkeeper/static/media/3rd_card.306117262e68d8d63f50b10dc151904e.svg",
+    "index.html": "/bookkeeper/index.html",
+    "main.b546ce2a.css.map": "/bookkeeper/static/css/main.b546ce2a.css.map",
+    "main.c45767f9.js.map": "/bookkeeper/static/js/main.c45767f9.js.map"
   },
   "entrypoints": [
     "static/css/main.b546ce2a.css",
-    "static/js/main.d39b8e75.js"
+    "static/js/main.c45767f9.js"
   ]
 }
