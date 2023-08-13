@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/susette-portfolio.github.io/build/static/css/main.b546ce2a.css",
-    "main.js": "/susette-portfolio.github.io/build/static/js/main.7a37a1b5.js",
-    "static/media/about_image.png": "/susette-portfolio.github.io/build/static/media/about_image.a35bc6d5652a5dd0ab5d.png",
-    "static/media/QRCode.png": "/susette-portfolio.github.io/build/static/media/QRCode.8b20e3d7aad69968c2ea.png",
-    "static/media/examplel-setup.svg": "/susette-portfolio.github.io/build/static/media/examplel-setup.1796cad36652996d7ff25cc00a8051ca.svg",
-    "static/media/1st_card.svg": "/susette-portfolio.github.io/build/static/media/1st_card.5027fe695e6bb42297b0b5db96a7d609.svg",
-    "static/media/completedTasks.svg": "/susette-portfolio.github.io/build/static/media/completedTasks.c901fba09afa822c9838f1e5e0691d4e.svg",
-    "static/media/can-u-relate.svg": "/susette-portfolio.github.io/build/static/media/can-u-relate.3b7ec28e79e462ab5108d5d423c461d1.svg",
-    "static/media/2nd_card.svg": "/susette-portfolio.github.io/build/static/media/2nd_card.241d8eeda7cff9b4c4bc57556232d7d9.svg",
-    "static/media/3rd_card.svg": "/susette-portfolio.github.io/build/static/media/3rd_card.306117262e68d8d63f50b10dc151904e.svg",
-    "index.html": "/susette-portfolio.github.io/build/index.html",
-    "main.b546ce2a.css.map": "/susette-portfolio.github.io/build/static/css/main.b546ce2a.css.map",
-    "main.7a37a1b5.js.map": "/susette-portfolio.github.io/build/static/js/main.7a37a1b5.js.map"
+    "main.css": "/bookkeeper/static/css/main.b546ce2a.css",
+    "main.js": "/bookkeeper/static/js/main.eded438a.js",
+    "static/media/about_image.png": "/bookkeeper/static/media/about_image.a35bc6d5652a5dd0ab5d.png",
+    "static/media/QRCode.png": "/bookkeeper/static/media/QRCode.8b20e3d7aad69968c2ea.png",
+    "static/media/examplel-setup.svg": "/bookkeeper/static/media/examplel-setup.1796cad36652996d7ff25cc00a8051ca.svg",
+    "static/media/1st_card.svg": "/bookkeeper/static/media/1st_card.5027fe695e6bb42297b0b5db96a7d609.svg",
+    "static/media/completedTasks.svg": "/bookkeeper/static/media/completedTasks.c901fba09afa822c9838f1e5e0691d4e.svg",
+    "static/media/can-u-relate.svg": "/bookkeeper/static/media/can-u-relate.3b7ec28e79e462ab5108d5d423c461d1.svg",
+    "static/media/2nd_card.svg": "/bookkeeper/static/media/2nd_card.241d8eeda7cff9b4c4bc57556232d7d9.svg",
+    "static/media/3rd_card.svg": "/bookkeeper/static/media/3rd_card.306117262e68d8d63f50b10dc151904e.svg",
+    "index.html": "/bookkeeper/index.html",
+    "main.b546ce2a.css.map": "/bookkeeper/static/css/main.b546ce2a.css.map",
+    "main.eded438a.js.map": "/bookkeeper/static/js/main.eded438a.js.map"
   },
   "entrypoints": [
     "static/css/main.b546ce2a.css",
-    "static/js/main.7a37a1b5.js"
+    "static/js/main.eded438a.js"
   ]
 }
