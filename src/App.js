@@ -6,8 +6,14 @@ import PageTasks from "./components/PageTasks";
 import PageAccomplished from "./components/PageAccomplished";
 import PageProcess from "./components/PageProcess";
 import PageContact from "./components/PageContact";
+import { useEffect } from "react";
+
 
 const App = () => {
+  useEffect(()=>{
+    console.log("This is the process.env", process.env.PUBLIC_URL)
+  }, [])
+
   return (
     <div className="App">
       <PageLanding />
